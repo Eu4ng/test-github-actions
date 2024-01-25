@@ -1,0 +1,11 @@
+﻿# npm
+node_modules
+package-lock.json
+
+# Rider 캐시
+.idea/
+
+# Visual Studio 캐시
+.vs/
+.vscode/
+.vsconfig
